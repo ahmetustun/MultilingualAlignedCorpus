@@ -1,0 +1,54 @@
+Quando pensamos em mapear cidades, tendemos a pensar em estradas, ruas e edifícios, e na história que levou à sua criação, ou você pode pensar na visão ousada de um urbanista.
+Mas há outras formas de pensar no mapeamento de cidades e como elas chegaram ao que são.
+Hoje quero mostrar-lhes um novo tipo de mapa.
+Este não é um mapa geográfico.
+É um mapa dos relacionamentos entre as pessoas na minha cidade, Baltimore, em Maryland.
+E o que podem ver aqui, é que cada ponto representa uma pessoa, cada linha representa uma relação entre essas pessoas, e cada cor representa uma comunidade dentro da rede.
+Eu estou aqui no lado verde, no canto inferior direito onde estão os geeks, e o TEDx também está no canto inferior direito.
+(Risos) Do outro lado da rede, costuma-se ter principalmente afro-americanas e latinos que se preocupam com coisas um pouco diferentes do que os geeks.
+Mas só para dar algum sentido chamamos a parte verde da rede de "Pequena-timore", para nós que moramos lá.
+Porque parece que vivemos em uma cidade muito pequena.
+Nós vemos sempre as mesmas pessoas, mas isso é porque não estamos explorando a profundidade e amplitude da cidade.
+Na outra extremidade da rede há pessoas interessadas em coisas como música hip-hop, e eles ainda dizem que moram na área alta do Distrito/Maryland/Virginia por exemplo, nos limites de Baltimore.
+Mas, no meio, dá para ver que há algo que liga as duas comunidades, que é o esporte.
+Temos o Baltimore Orioles, o time de futebol Baltimore Ravens, Michael Phelps, o atleta.
+Under Armour, talvez vocês conheçam, é uma empresa de Baltimore, e essa comunidade de esportes atua como a única ponte entre essas duas extremidades da rede.
+Vamos dar uma olhada em São Francisco.
+Vocês vêm algo um pouco diferente acontecendo em São Francisco.
+De um lado, há a mídia, política e o centro de notícias que tendem a existir em Baltimore e em outras cidades.
+Mas também há este grupo predominante de geeks e técnicos, que estão meio que assumindo a metade superior da rede, e há ainda um grupo que é tão claro e distinto que os identificamos como funcionários do Twitter, ao lado dos geeks, entre os jogadores e os geeks, no extremo oposto do espectro de hip-hop.
+No entanto, dá para ver que as tensões que ouvimos falar em São Francisco em termos de pessoas que se preocupam com a gentrificação e novas empresas de tecnologia que estão trazendo riquezas e habitação para a cidade são reais, e dá para ver isso documentado aqui.
+Vocês podem ver que a comunidade LGBT não está se misturando muito com a comunidade geek.
+A comunidade de artes, a de música.
+E isso leva a coisas como esta.
+[Expulsem o Twitter] Alguém me enviou esta foto há algumas semanas, que mostra o que está acontecendo em São Francisco, e vocês podem tentar entender isso olhando para uma mapa como este.
+Vamos ver o Rio de Janeiro.
+Eu passei as últimas semanas coletando dados sobre o Rio, e uma das coisas que me chamou a atenção nessa cidade é que tudo meio que se mistura.
+É uma cidade muito heterogênea, diferente de Baltimore ou São Francisco.
+Você ainda tem o grupo de pessoas envolvidas com o governo, jornais, política, colunistas.
+TEDxRio está no canto inferior direito, com os blogueiros e escritores.
+Mas também tem essa grande diversidade de pessoas que curtem diferentes tipos de música.
+Até fãs do Justin Bieber aparecem aqui.
+Outras boy bands, cantores country, música gospel, funk, rap e stand-up comedy, e há até mesmo uma seção inteira de drogas e piadas.
+Como isso é legal!
+O time de futebol Flamengo também é representado aqui.
+Existe o mesmo tipo de propagação de esportes e educação cívica, e de artes e música, mas representada de forma bem diferente, e eu acho que isso se encaixe com a nossa compreensão do Rio como sendo uma cidade multicultural, e musicalmente diversificada.
+Então, temos todos esses dados.
+Temos um conjunto muito rico de dados sobre as cidades.
+Talvez bem mais rico do que qualquer um que já tivemos antes.
+Então, o que podemos fazer com ele?
+A primeira coisa que podemos tentar entender é que a segregação é uma construção social.
+É algo que escolhemos fazer, e poderíamos optar por não fazê-lo.
+E se vocês pensarem sobre isso, o que fazemos com esses dados é apontar um telescópio para uma cidade e olhar como se fosse uma cantina gigante de escola, e ver como todos se acomodam em um mapa de assentos.
+Bem, talvez seja hora de sacudir um pouco o mapa assentos.
+Outra coisa que começamos a perceber é que a raça é um filtro fraco para a diversidade.
+Há pessoas representadas pelos diferentes tipos de raça, por todo o mapa.
+E, sabe, considerar apenas a raça não contribui para o desenvolvimento da diversidade.
+Se a ideia é usar a diversidade para resolver alguns dos nossos problemas mais difíceis, temos de começar a pensar sobre a diversidade de um novo jeito.
+E, por último, temos a capacidade de criar intervenções para remodelar as cidades de uma maneira nova, e eu acredito que se nós temos essa capacidade, podemos até ter alguma responsabilidade de fazê-lo.
+Então, o que é uma cidade?
+Eu acho que alguns poderiam dizer que é uma área geográfica ou um aglomerado de ruas e edifícios.
+Mas eu acredito que uma cidade é a soma das relações das pessoas que ali vivem.
+E acredito que, se pudermos começar a documentar essas relações de maneira real então talvez tenhamos uma chance real de criar as cidades que gostaríamos de ter.
+Obrigado.
+(Aplausos)
